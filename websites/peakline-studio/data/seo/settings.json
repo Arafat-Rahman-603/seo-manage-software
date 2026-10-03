@@ -1,0 +1,8 @@
+{
+  "siteName": "Peakline Studio",
+  "siteUrl": "https://peakline-studio.example.com",
+  "robots": "index, follow",
+  "sitemap": {
+    "enabled": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "siteName": "Northstar Digital",
+  "siteUrl": "https://northstar-digital.example.com",
+  "defaultTitle": "Northstar Digital - Professional Solutions",
+  "defaultDescription": "We help businesses improve their digital presence with professional web solutions.",
+  "defaultOgImage": "https://northstar-digital.example.com/og-image.jpg",
+  "robots": "index, follow",
+  "favicon": "/favicon.ico",
+  "locale": "en_US",
+  "timezone": "UTC",
+  "sitemap": {
+    "enabled": true
+  }
+}

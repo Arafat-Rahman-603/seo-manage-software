@@ -1,0 +1,14 @@
+{
+  "title": "Peakline Studio - Web Design & Development",
+  "description": "Peakline Studio creates digital experiences that elevate your brand.",
+  "canonical": "https://peakline-studio.example.com/",
+  "robots": "index, follow",
+  "ogTitle": "Peakline Studio",
+  "ogDescription": "Digital experiences that elevate your brand.",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Peakline Studio",
+    "url": "https://peakline-studio.example.com/"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "page": "home",
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "enabled": true,
+      "order": 1,
+      "data": {
+        "eyebrow": "Digital Growth",
+        "title": "Build a Better Digital Business",
+        "description": "Modern digital experiences for ambitious businesses.",
+        "primaryButton": {
+          "label": "Start a Project",
+          "href": "/contact"
+        }
+      }
+    }
+  ]
+}

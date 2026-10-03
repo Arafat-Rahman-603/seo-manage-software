@@ -1,0 +1,16 @@
+{
+  "title": "About Us - Northstar Digital",
+  "description": "Learn more about Northstar Digital. We are a team of passionate digital experts dedicated to helping businesses succeed online.",
+  "canonical": "https://northstar-digital.example.com/about",
+  "robots": "index, follow",
+  "ogTitle": "About Us - Northstar Digital",
+  "ogDescription": "Learn more about Northstar Digital and our expert team.",
+  "ogImage": "https://northstar-digital.example.com/images/about-og.jpg",
+  "twitterCard": "summary_large_image",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Northstar Digital",
+    "url": "https://northstar-digital.example.com/"
+  }
+}

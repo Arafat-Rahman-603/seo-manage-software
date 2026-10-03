@@ -1,0 +1,20 @@
+{
+  "page": "home",
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "enabled": true,
+      "order": 1,
+      "data": {
+        "eyebrow": "Creative Vision",
+        "title": "Crafting Premium Experiences",
+        "description": "Editorial design and development for modern brands.",
+        "primaryButton": {
+          "label": "View Our Work",
+          "href": "/work"
+        }
+      }
+    }
+  ]
+}

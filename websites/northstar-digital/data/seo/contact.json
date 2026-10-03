@@ -1,0 +1,15 @@
+{
+  "title": "Contact Us - Northstar Digital",
+  "description": "Get in touch with Northstar Digital to start your next big project. We offer comprehensive digital solutions.",
+  "canonical": "https://northstar-digital.example.com/contact",
+  "robots": "index, follow",
+  "ogTitle": "Contact Us - Northstar Digital",
+  "ogDescription": "Get in touch with Northstar Digital.",
+  "twitterCard": "summary",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "ContactPage",
+    "name": "Contact Northstar Digital",
+    "description": "Contact form for Northstar Digital."
+  }
+}

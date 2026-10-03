@@ -1,0 +1,18 @@
+{
+  "title": "Northstar Digital - Home",
+  "description": "Professional Digital Solutions for Growing Businesses. We help businesses improve their digital presence and reach more customers.",
+  "canonical": "https://northstar-digital.example.com/",
+  "robots": "index, follow",
+  "ogTitle": "Northstar Digital - Professional Digital Solutions",
+  "ogDescription": "Professional Digital Solutions for Growing Businesses.",
+  "ogImage": "https://northstar-digital.example.com/images/home-og.jpg",
+  "twitterCard": "summary_large_image",
+  "keywords": "digital solutions, web development, SEO",
+  "locale": "en_US",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Northstar Digital",
+    "url": "https://northstar-digital.example.com/"
+  }
+}

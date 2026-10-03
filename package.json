@@ -1,0 +1,20 @@
+{
+  "name": "seo-framework",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "lint": "turbo run lint",
+    "dev:admin": "turbo run dev --filter=seo-admin",
+    "dev:northstar": "turbo run dev --filter=northstar-digital",
+    "dev:peakline": "turbo run dev --filter=peakline-studio"
+  },
+  "devDependencies": {
+    "turbo": "^1.11.3",
+    "typescript": "^5.3.3",
+    "@types/node": "^20.10.4",
+    "prettier": "^3.1.1"
+  },
+  "packageManager": "pnpm@8.15.1"
+}

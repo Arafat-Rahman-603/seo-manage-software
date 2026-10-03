@@ -1,0 +1,17 @@
+{
+  "title": "Our Services - Northstar Digital",
+  "description": "Explore our professional digital services including SEO, web development, and digital marketing strategies tailored for growth.",
+  "canonical": "https://northstar-digital.example.com/services",
+  "robots": "index, follow",
+  "ogTitle": "Our Services - Northstar Digital",
+  "ogDescription": "Explore our professional digital services including SEO and web development.",
+  "ogImage": "https://northstar-digital.example.com/images/services-og.jpg",
+  "twitterCard": "summary_large_image",
+  "keywords": "services, SEO, digital marketing",
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Our Services",
+    "description": "Professional digital services for your business."
+  }
+}
